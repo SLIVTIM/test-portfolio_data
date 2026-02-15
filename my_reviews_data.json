@@ -26,8 +26,8 @@
     {
         "id": 4,
         "userPhoto": "https://raw.githubusercontent.com/SLIVTIM/test-portfolio_data/refs/heads/main/img/my_reviews/rendom_unc_in_iraq_converted.avif",
-        "alt": "iraqi_unc",
-        "userName": "santa_claus",
+        "alt": "iraqi_unc_image",
+        "userName": "iraqi_unc",
         "comment": "Your API integrations are seamless. Thanks for actually reading the docs and handling errors gracefully.",
         "profession": "back-end developer"
     }
