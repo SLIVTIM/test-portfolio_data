@@ -2,6 +2,7 @@
     {
         "id": 1,
         "userPhoto": "https://raw.githubusercontent.com/SLIVTIM/test-portfolio_data/refs/heads/main/img/my_reviews/Abu_Musab_al-Zarqawi.avif",
+        "alt": "Abu_Musab_al-Zarqawi_image",
         "userName": "Abu_Musab_al-Zarqawi",
         "comment": "Finally, a dev who actually respects the padding. Pixel-perfect execution every single time.",
         "profession": "designer"
@@ -9,6 +10,7 @@
     {
         "id": 2,
         "userPhoto": "https://raw.githubusercontent.com/SLIVTIM/test-portfolio_data/refs/heads/main/img/my_reviews/Abu_Bakr_al-Baghdadi.avif",
+        "alt": "Abu_Bakr_al-Baghdadi_image",
         "userName": "Abu_Bakr_al-Baghdadi",
         "comment": "Clean components, zero prop-drilling nightmares, and your CSS architecture is a work of art.",
         "profession": "front-end developer"
@@ -16,6 +18,7 @@
     {
         "id": 3,
         "userPhoto": "https://raw.githubusercontent.com/SLIVTIM/test-portfolio_data/refs/heads/main/img/my_reviews/Shamil_Basayev.avif",
+        "alt": "Shamil_Basayev_image",
         "userName": "Shamil_Basayev",
         "comment": "Reliable, fast, and somehow always finishes the 'impossible' tasks ahead of schedule.",
         "profession": "manager"
@@ -23,6 +26,7 @@
     {
         "id": 4,
         "userPhoto": "https://raw.githubusercontent.com/SLIVTIM/test-portfolio_data/refs/heads/main/img/my_reviews/2008_christmas_santa.avif",
+        "alt": "2008_christmas_santa_image",
         "userName": "santa_claus",
         "comment": "Your API integrations are seamless. Thanks for actually reading the docs and handling errors gracefully.",
         "profession": "back-end developer"
