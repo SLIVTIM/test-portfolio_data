@@ -1,28 +1,28 @@
 [
     {
         "d": 1,
-        "logo": "document_logo",
+        "logo": "https://raw.githubusercontent.com/SLIVTIM/test-portfolio_data/refs/heads/main/img/my_experience/document_logo.svg",
         "alt": "document_logo",
         "title": "My Experience working on web projects",
         "paragraph": "I’ve spent so much time pouring my heart into creating everything from super-friendly, seamless forms to those dreamy, pixel-perfect pages that just make you want to stay a while and look around."
     },
     {
         "id": 2,
-        "logo": "github_desktop_logo",
+        "logo": "https://raw.githubusercontent.com/SLIVTIM/test-portfolio_data/refs/heads/main/img/my_experience/github_desktop_logo.svg",
         "alt": "github_desktop_logo",
         "title": "My Journey through the GitHub Universe",
         "paragraph": "I love keeping my projects organized! I use GitHub Desktop to visualize my progress and the terminal for Git commands. [cite_start]This 'safety net' lets me experiment freely, ensuring every feature I ship is polished and ready for the demo."
     },
     {
         "id": 3,
-        "logo": "videoGame_logo",
+        "logo": "https://raw.githubusercontent.com/SLIVTIM/test-portfolio_data/refs/heads/main/img/my_experience/videoGame_logo.svg",
         "alt": "videogame_logo",
         "title": "My Spooky unity projects",
         "paragraph": "I’ve spent years in Unity crafting private horror games I’m truly proud of.Though I haven't published them yet, I love using C# and my custom Blender models to bring atmospheric, spooky ideas to life from the ground up."
     },
     {
         "id": 4,
-        "logo": "three_dimension_logo",
+        "logo": "https://raw.githubusercontent.com/SLIVTIM/test-portfolio_data/refs/heads/main/img/my_experience/3d_logo.svg",
         "alt": "3d_logo",
         "title": "My 3D Modeling Journey with Blender",
         "paragraph": "I love the art of 3D modeling, especially when it comes to crafting beautiful static models with clean, intentional topology.While I’ve dabbled in simple animations, my real passion is the 'polish' phase—creating different versions of the same model to find that perfect balance of high-quality detail and game-ready optimization."
