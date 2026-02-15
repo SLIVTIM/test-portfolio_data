@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "img": "https://raw.githubusercontent.com/SLIVTIM/test-portfolio_data/refs/heads/main/img/online_shop_page_image.avif",
+    "img": "https://raw.githubusercontent.com/SLIVTIM/test-portfolio_data/refs/heads/main/img/my_projects/online_shop_page_image.avif",
     "alt": "online_shop_page_image",
     "title": "Online Cloth Shop",
     "paragraph": "I designed and developed a fully responsive e-commerce platform tailored for the modern fashion market. This project focuses on a seamless user journey, from an intuitive product discovery phase to a streamlined, secure checkout process. By prioritizing high-quality visual storytelling and a clean, minimalist UI, I created a digital storefront that not only showcases apparel but also reinforces brand identity and customer trust across all device types.",
@@ -9,7 +9,7 @@
   },
   {
     "id": 2,
-    "img": "https://raw.githubusercontent.com/SLIVTIM/test-portfolio_data/refs/heads/main/img/journalistic_page_image.avif",
+    "img": "https://raw.githubusercontent.com/SLIVTIM/test-portfolio_data/refs/heads/main/img/my_projects/journalistic_page_image.avif",
     "alt": "journalistic_page_image",
     "title": "Journalism Related Website",
     "paragraph": "I built a professional journalism website designed to organize large amounts of content into a clean, easy-to-read interface. My focus was on creating a layout that balances different types of news while maintaining a fast, responsive user experience. The final product is an authoritative, high-performance platform built for a global audience.",
@@ -17,7 +17,7 @@
   },
   {
     "id": 3,
-    "img": "https://raw.githubusercontent.com/SLIVTIM/test-portfolio_data/refs/heads/main/img/form_page_image.avif",
+    "img": "https://raw.githubusercontent.com/SLIVTIM/test-portfolio_data/refs/heads/main/img/my_projects/form_page_image.avif",
     "alt": "form_page_image",
     "title": "Form Related Webpage",
     "paragraph": "I designed and developed streamlined authentication pages focused on user conversion and data security. By minimizing friction in the login and sign-up flows, I created a high-conversion entry point that guides users into the platform effortlessly. The project emphasizes clear validation, responsive design, and intuitive error handling, ensuring a secure and professional first impression for every user.",
@@ -25,7 +25,7 @@
   },
   {
     "id": 4,
-    "img": "https://raw.githubusercontent.com/SLIVTIM/test-portfolio_data/refs/heads/main/img/cute_doraemon_page_image.avif",
+    "img": "https://raw.githubusercontent.com/SLIVTIM/test-portfolio_data/refs/heads/main/img/my_projects/cute_doraemon_page_image.avif",
     "alt": "cute_doraemon_image",
     "title": "Fun Visaul Projects",
     "paragraph": "Who says geometry has to be boring? In this project, I challenged myself to turn basic circles, squares, and triangles into a cast of quirky, expressive cartoon characters. By focusing on clean lines and bold personalities, I proved that you don't need complex details to create a memorable story. It’s a playful exploration of minimalist design where simple shapes do the heavy lifting to bring humor and life to the screen.",
