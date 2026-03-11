@@ -2,26 +2,26 @@
     {
         "id": 1,
         "skill": "C-SHARP",
-        "link": "https://raw.githubusercontent.com/SLIVTIM/test-portfolio_data/refs/heads/main/img/my_other_skills/c_sharp_logo.svg"
+        "img": "https://raw.githubusercontent.com/SLIVTIM/test-portfolio_data/refs/heads/main/img/my_other_skills/c_sharp_logo.svg"
     },
     {
         "id": 2,
         "skill": "UNITY",
-        "link": "https://raw.githubusercontent.com/SLIVTIM/test-portfolio_data/refs/heads/main/img/my_other_skills/unity_logo.svg"
+        "img": "https://raw.githubusercontent.com/SLIVTIM/test-portfolio_data/refs/heads/main/img/my_other_skills/unity_logo.svg"
     },
     {
         "id": 3,
         "skill": "BLENDER",
-        "link": "https://raw.githubusercontent.com/SLIVTIM/test-portfolio_data/refs/heads/main/img/my_other_skills/blender_logo.svg"
+        "img": "https://raw.githubusercontent.com/SLIVTIM/test-portfolio_data/refs/heads/main/img/my_other_skills/blender_logo.svg"
     },
     {
         "id": 4,
         "skill": "INKSCAPE",
-        "link": "https://raw.githubusercontent.com/SLIVTIM/test-portfolio_data/refs/heads/main/img/my_other_skills/inkScape_logo.svg"
+        "img": "https://raw.githubusercontent.com/SLIVTIM/test-portfolio_data/refs/heads/main/img/my_other_skills/inkScape_logo.svg"
     },
     {
         "id": 5,
         "skill": "GIMP",
-        "link": "https://raw.githubusercontent.com/SLIVTIM/test-portfolio_data/refs/heads/main/img/my_other_skills/gimp_logo.svg"
+        "img": "https://raw.githubusercontent.com/SLIVTIM/test-portfolio_data/refs/heads/main/img/my_other_skills/gimp_logo.svg"
     }
 ]
