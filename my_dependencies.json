@@ -8,7 +8,7 @@
       "ru": "Иконка Swiper",
       "ge": "Swiper-ის ხატულა"
     },
-    "reason": {
+    "description": {
       "en": "Because writing a custom slider from scratch is a one-way ticket to a mental breakdown.",
       "ru": "Потому что писать слайдер с нуля — это прямой билет в психушку.",
       "ge": "იმიტომ, რომ სლაიდერის ნულიდან დაწერა პირდაპირი გზაა გიჟობამდე."
@@ -23,7 +23,7 @@
       "ru": "Иконка шрифта",
       "ge": "შრიფტის ხატულა"
     },
-    "reason": {
+    "description": {
       "en": "Spending 3 hours picking a font that looks exactly like the default one.",
       "ru": "Трачу 3 часа на выбор шрифта, который выглядит точно так же, как стандартный.",
       "ge": "3 საათის დახარჯვა იმ შრიფტის ასარჩევად, რომელიც ზუსტად ისე გამოიყურება, როგორც სტანდარტული."
@@ -38,7 +38,7 @@
       "ru": "Иконка роутера",
       "ge": "როუტერის ხატულა"
     },
-    "reason": {
+    "description": {
       "en": "Making the browser believe we are actually going somewhere else.",
       "ru": "Убеждаю браузер, что мы на самом деле переходим на другую страницу.",
       "ge": "ბრაუზერის დარწმუნება იმაში, რომ ჩვენ მართლა სხვა გვერდზე გადავდივართ."
@@ -53,7 +53,7 @@
       "ru": "Иконка Axios",
       "ge": "Axios-ის ხატულა"
     },
-    "reason": {
+    "description": {
       "en": "Because I'm too fancy for the standard fetch() API.",
       "ru": "Потому что я слишком крут для стандартного fetch() API.",
       "ge": "იმიტომ, რომ ზედმეტად „სერიოზული“ ვარ სტანდარტული fetch() API-სთვის."
@@ -68,7 +68,7 @@
       "ru": "Иконка Toastify",
       "ge": "Toastify-ის ხატულა"
     },
-    "reason": {
+    "description": {
       "en": "Adding colorful popups to distract you from the bugs in my code.",
       "ru": "Добавляю цветные уведомления, чтобы отвлечь вас от багов в моем коде.",
       "ge": "ფერადი შეტყობინებების დამატება, რომ თქვენი ყურადღება ჩემი კოდის ბაგებისგან გადავიტანო."
