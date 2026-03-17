@@ -2,6 +2,12 @@
   {
     "id": 1,
     "name": "Swiper.js",
+    "img": "https://raw.githubusercontent.com/SLIVTIM/test-portfolio_data/refs/heads/main/img/my_dependencies/swiper_logo.svg",
+    "alt": {
+      "en": "Swiper icon",
+      "ru": "Иконка Swiper",
+      "ge": "Swiper-ის ხატულა"
+    },
     "reason": {
       "en": "Because writing a custom slider from scratch is a one-way ticket to a mental breakdown.",
       "ru": "Потому что писать слайдер с нуля — это прямой билет в психушку.",
@@ -11,6 +17,12 @@
   {
     "id": 2,
     "name": "Custom Fonts",
+    "img": "https://raw.githubusercontent.com/SLIVTIM/test-portfolio_data/refs/heads/main/img/my_dependencies/font_logo.svg",
+    "alt": {
+      "en": "Font icon",
+      "ru": "Иконка шрифта",
+      "ge": "შრიფტის ხატულა"
+    },
     "reason": {
       "en": "Spending 3 hours picking a font that looks exactly like the default one.",
       "ru": "Трачу 3 часа на выбор шрифта, который выглядит точно так же, как стандартный.",
@@ -20,6 +32,12 @@
   {
     "id": 3,
     "name": "React Router",
+    "img": "https://raw.githubusercontent.com/SLIVTIM/test-portfolio_data/refs/heads/main/img/my_dependencies/router_logo.svg",
+    "alt": {
+      "en": "Router icon",
+      "ru": "Иконка роутера",
+      "ge": "როუტერის ხატულა"
+    },
     "reason": {
       "en": "Making the browser believe we are actually going somewhere else.",
       "ru": "Убеждаю браузер, что мы на самом деле переходим на другую страницу.",
@@ -29,6 +47,12 @@
   {
     "id": 4,
     "name": "Axios",
+    "img": "https://raw.githubusercontent.com/SLIVTIM/test-portfolio_data/refs/heads/main/img/my_dependencies/axios_logo.svg",
+    "alt": {
+      "en": "Axios icon",
+      "ru": "Иконка Axios",
+      "ge": "Axios-ის ხატულა"
+    },
     "reason": {
       "en": "Because I'm too fancy for the standard fetch() API.",
       "ru": "Потому что я слишком крут для стандартного fetch() API.",
@@ -38,6 +62,12 @@
   {
     "id": 5,
     "name": "React-Toastify",
+    "img": "https://raw.githubusercontent.com/SLIVTIM/test-portfolio_data/refs/heads/main/img/my_dependencies/toastify_logo.svg",
+    "alt": {
+      "en": "Toastify icon",
+      "ru": "Иконка Toastify",
+      "ge": "Toastify-ის ხატულა"
+    },
     "reason": {
       "en": "Adding colorful popups to distract you from the bugs in my code.",
       "ru": "Добавляю цветные уведомления, чтобы отвлечь вас от багов в моем коде.",
