@@ -2,33 +2,81 @@
     {
         "id": 1,
         "userPhoto": "https://raw.githubusercontent.com/SLIVTIM/test-portfolio_data/refs/heads/main/img/my_reviews/Abu_Musab_al-Zarqawi.avif",
-        "alt": "Abu_Musab_al-Zarqawi_image",
+        "alt": {
+            "en": "Abu_Musab_al-Zarqawi_image",
+            "ru": "изображение_Абу_Мусаб_аль-Заркави",
+            "ge": "აბუ_მუსაბ_ალ-ზარქავის_სურათი"
+        },
         "userName": "Abu Musab al-Zarqawi",
-        "comment": "Finally, a dev who actually respects the padding. Pixel-perfect execution every single time.",
-        "profession": "designer"
+        "comment": {
+            "en": "Finally, a dev who actually respects the padding. Pixel-perfect execution every single time.",
+            "ru": "Наконец-то разработчик, который действительно уважает отступы. Пиксельно точное исполнение каждый раз.",
+            "ge": "როგორც იქნა, დეველოპერი, რომელიც პატივს სცემს პადინგებს (padding). პიქსელურად ზუსტი შესრულება ყოველ ჯერზე."
+        },
+        "profession": {
+            "en": "designer",
+            "ru": "дизайнер",
+            "ge": "დიზაინერი"
+        }
     },
     {
         "id": 2,
         "userPhoto": "https://raw.githubusercontent.com/SLIVTIM/test-portfolio_data/refs/heads/main/img/my_reviews/Abu_Bakr_al-Baghdadi.avif",
-        "alt": "Abu_Bakr_al-Baghdadi_image",
+        "alt": {
+            "en": "Abu_Bakr_al-Baghdadi_image",
+            "ru": "изображение_Абу_Бакр_аль-Багдади",
+            "ge": "აბუ_ბაქრ_ალ-ბაღდადის_სურათი"
+        },
         "userName": "Abu Bakr al-Baghdadi",
-        "comment": "Clean components, zero prop-drilling nightmares, and your CSS architecture is a work of art.",
-        "profession": "front-end developer"
+        "comment": {
+            "en": "Clean components, zero prop-drilling nightmares, and your CSS architecture is a work of art.",
+            "ru": "Чистые компоненты, никаких кошмаров с пробросом пропсов, а ваша CSS-архитектура — это произведение искусства.",
+            "ge": "სუფთა კომპონენტები, არანაირი პრობლემა „Prop-drilling“-თან და თქვენი CSS არქიტექტურა ნამდვილი ხელოვნებაა."
+        },
+        "profession": {
+            "en": "front-end developer",
+            "ru": "фронтенд-разработчик",
+            "ge": "Front-end დეველოპერი"
+        }
     },
     {
         "id": 3,
         "userPhoto": "https://raw.githubusercontent.com/SLIVTIM/test-portfolio_data/refs/heads/main/img/my_reviews/Shamil_Basayev.avif",
-        "alt": "Shamil_Basayev_image",
+        "alt": {
+            "en": "Shamil_Basayev_image",
+            "ru": "изображение_Шамиль_Басаев",
+            "ge": "შამილ_ბასაევის_სურათი"
+        },
         "userName": "Shamil Basayev",
-        "comment": "Reliable, fast, and somehow always finishes the 'impossible' tasks ahead of schedule.",
-        "profession": "manager"
+        "comment": {
+            "en": "Reliable, fast, and somehow always finishes the 'impossible' tasks ahead of schedule.",
+            "ru": "Надежный, быстрый и каким-то образом всегда завершает «невозможные» задачи раньше срока.",
+            "ge": "საიმედო, სწრაფი და როგორღაც ყოველთვის ასრულებს „შეუძლებელ“ დავალებებს ვადაზე ადრე."
+        },
+        "profession": {
+            "en": "manager",
+            "ru": "менеджер",
+            "ge": "მენეჯერი"
+        }
     },
     {
         "id": 4,
         "userPhoto": "https://raw.githubusercontent.com/SLIVTIM/test-portfolio_data/refs/heads/main/img/my_reviews/rendom_unc_in_iraq_converted.avif",
-        "alt": "iraqi_unc_image",
+        "alt": {
+            "en": "iraqi_unc_image",
+            "ru": "изображение_иракского_дяди",
+            "ge": "ერაყელი_ბიძას_სურათი"
+        },
         "userName": "iraqi unc",
-        "comment": "Your API integrations are seamless. Thanks for actually reading the docs and handling errors gracefully.",
-        "profession": "back-end developer"
+        "comment": {
+            "en": "Your API integrations are seamless. Thanks for actually reading the docs and handling errors gracefully.",
+            "ru": "Ваша интеграция с API безупречна. Спасибо за то, что действительно читаете документацию и изящно обрабатываете ошибки.",
+            "ge": "თქვენი API ინტეგრაციები უნაკლოა. მადლობა დოკუმენტაციის კითხვისთვის და შეცდომების სწორად მართვისთვის."
+        },
+        "profession": {
+            "en": "back-end developer",
+            "ru": "бэкенд-разработчик",
+            "ge": "Back-end დეველოპერი"
+        }
     }
 ]

@@ -1,15 +1,31 @@
 [
     {
-        "paragraph": "I'm a passionate, self-proclaimed designer who specializes in full stack development (React.js & Node.js). I am very enthusiastic about bringing the technical and visual aspects of digital products to life. User experience, pixel perfect design, and writing clear, readable, highly performant code matters to me."
+        "paragraph": {
+            "en": "I'm a passionate, self-proclaimed designer who specializes in full stack development (React.js & Node.js). I am very enthusiastic about bringing the technical and visual aspects of digital products to life. User experience, pixel perfect design, and writing clear, readable, highly performant code matters to me.",
+            "ru": "Я увлеченный дизайнер-самоучка, специализирующийся на Fullstack-разработке (React.js и Node.js). Мне очень нравится воплощать в жизнь технические и визуальные аспекты цифровых продуктов. Для меня важны пользовательский опыт, пиксельная точность дизайна и написание чистого, читаемого и высокопроизводительного кода.",
+            "ge": "მე ვარ ენთუზიასტი დიზაინერი, რომელიც სპეციალიზებულია Fullstack დეველოპმენტში (React.js და Node.js). დიდ სიამოვნებას მანიჭებს ციფრული პროდუქტების ტექნიკური და ვიზუალური მხარეების გაცოცხლება. ჩემთვის მნიშვნელოვანია მომხმარებლის გამოცდილება (UX), დახვეწილი დიზაინი და სუფთა, წაკითხვადი და მაღალეფექტური კოდის წერა."
+        } 
     },
     {
-        "paragraph": "I began my journey as a web developer in 2015, and since then, I've continued to grow and evolve as a developer, taking on new challenges and learning the latest technologies along the way. Now, in my early thirties, 7 years after starting my web development journey, I'm building cutting-edge web applications using modern technologies such as Next.js, TypeScript, Nestjs, Tailwindcss, Supabase and much more."
+        "paragraph": {
+            "en": "I began my journey as a web developer in 2015, and since then, I've continued to grow and evolve as a developer, taking on new challenges and learning the latest technologies along the way. Now, in my early thirties, 7 years after starting my web development journey, I'm building cutting-edge web applications using modern technologies such as Next.js, TypeScript, Nestjs, Tailwindcss, Supabase and much more.",
+            "ru": "Мой путь веб-разработчика начался в 2015 году, и с тех пор я продолжаю расти и развиваться, принимая новые вызовы и изучая новейшие технологии. Сейчас, спустя 7 лет после начала этого пути, я создаю передовые веб-приложения, используя такие современные технологии, как Next.js, TypeScript, Nestjs, Tailwindcss, Supabase и многое другое.",
+            "ge": "ჩემი გზა ვებ-დეველოპმენტში 2015 წელს დაიწყო. მას შემდეგ მუდმივად ვვითარდები, ვუმკლავდები ახალ გამოწვევებს და ვსწავლობ თანამედროვე ტექნოლოგიებს. დღეს, ჩემი მოგზაურობის დაწყებიდან 7 წლის შემდეგ, ვქმნი ინოვაციურ ვებ-აპლიკაციებს ისეთი ტექნოლოგიების გამოყენებით, როგორიცაა Next.js, TypeScript, Nestjs, Tailwindcss, Supabase და სხვა."
+        }
     },
     {
-        "paragraph": "When I'm not in full-on developer mode, you can find me hovering around on twitter witnessing the journey of early startups or enjoying some free time. You can follow me on Twitter where I share tech-related bites and build in public, or you can follow me on GitHub."
+        "paragraph": {
+            "en": "When I'm not in full-on developer mode, you can find me hovering around on twitter witnessing the journey of early startups or enjoying some free time. You can follow me on Twitter where I share tech-related bites and build in public, or you can follow me on GitHub.",
+            "ru": "Когда я не занят разработкой, меня можно найти в Twitter, где я слежу за развитием стартапов или просто отдыхаю. Вы можете подписаться на мой Twitter, где я делюсь полезными заметками о технологиях и создаю проекты открыто (build in public), или следить за мной на GitHub.",
+            "ge": "როდესაც დეველოპმენტისგან ვისვენებ, დროს ვატარებ Twitter-ზე, სადაც თვალს ვადევნებ სტარტაპების განვითარებას. შეგიძლიათ გამომყვეთ Twitter-ზე, სადაც ვავრცელებ ტექნოლოგიურ სიახლეებს და ვმუშაობ პროექტებზე საჯაროდ, ან მნახოთ GitHub-ზე."
+        }
     },
     {
-        "paragraph": "Ultimately, my work is about more than just pixels and functions—it's about building tools that empower people. I take pride in being a reliable partner for startups and businesses, helping them transform complex ideas into functional, beautiful realities. I'm currently available for new projects, so if you have an idea you'd like to bring to life, let's talk."
+        "paragraph": {
+            "en": "Ultimately, my work is about more than just pixels and functions—it's about building tools that empower people. I take pride in being a reliable partner for startups and businesses, helping them transform complex ideas into functional, beautiful realities. I'm currently available for new projects, so if you have an idea you'd like to bring to life, let's talk.",
+            "ru": "В конечном счете, моя работа — это не просто пиксели и функции, а создание инструментов, которые расширяют возможности людей. Я горжусь тем, что являюсь надежным партнером для стартапов и бизнеса, помогая им превращать сложные идеи в функциональную и красивую реальность. Сейчас я открыт для новых проектов, так что если у вас есть идея, которую вы хотите воплотить в жизнь — давайте обсудим.",
+            "ge": "საბოლოო ჯამში, ჩემი სამუშაო მხოლოდ პიქსელები და ფუნქციები არ არის — ეს არის ხალხისთვის სასარგებლო ხელსაწყოების შექმნა. ვამაყობ, რომ ვარ საიმედო პარტნიორი სტარტაპებისა და ბიზნესებისთვის, ვეხმარები მათ რთული იდეების ფუნქციურ და ლამაზ რეალობად ქცევაში. ამჟამად მზად ვარ ახალი პროექტებისთვის, ასე რომ, თუ გაქვთ იდეა, რომლის გაცოცხლებაც გსურთ — დამიკავშირდით, ვისაუბროთ."
+        }
     }
 ]
 
