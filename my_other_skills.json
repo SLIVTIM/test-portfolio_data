@@ -1,27 +1,52 @@
 [
-    {
-        "id": 1,
-        "skill": "C-SHARP",
-        "img": "https://raw.githubusercontent.com/SLIVTIM/test-portfolio_data/refs/heads/main/img/my_other_skills/c_sharp_logo.svg"
-    },
-    {
-        "id": 2,
-        "skill": "UNITY",
-        "img": "https://raw.githubusercontent.com/SLIVTIM/test-portfolio_data/refs/heads/main/img/my_other_skills/unity_logo.svg"
-    },
-    {
-        "id": 3,
-        "skill": "BLENDER",
-        "img": "https://raw.githubusercontent.com/SLIVTIM/test-portfolio_data/refs/heads/main/img/my_other_skills/blender_logo.svg"
-    },
-    {
-        "id": 4,
-        "skill": "INKSCAPE",
-        "img": "https://raw.githubusercontent.com/SLIVTIM/test-portfolio_data/refs/heads/main/img/my_other_skills/inkScape_logo.svg"
-    },
-    {
-        "id": 5,
-        "skill": "GIMP",
-        "img": "https://raw.githubusercontent.com/SLIVTIM/test-portfolio_data/refs/heads/main/img/my_other_skills/gimp_logo.svg"
+  {
+    "id": 1,
+    "skill": "C-SHARP",
+    "img": "https://raw.githubusercontent.com/SLIVTIM/test-portfolio_data/refs/heads/main/img/my_other_skills/c_sharp_logo.svg",
+    "reason": {
+      "en": "Good understanding of OOP principles for scripting and game logic.",
+      "ru": "Хорошее понимание принципов ООП для написания скриптов и игровой логики.",
+      "ge": "OOP პრინციპების კარგი ცოდნა სკრიპტინგისა და თამაშის ლოგიკისთვის."
     }
+  },
+  {
+    "id": 2,
+    "skill": "UNITY",
+    "img": "https://raw.githubusercontent.com/SLIVTIM/test-portfolio_data/refs/heads/main/img/my_other_skills/unity_logo.svg",
+    "reason": {
+      "en": "Capable of building functional 3D environments and implementing core gameplay mechanics.",
+      "ru": "Способен создавать функциональные 3D-окружения и реализовывать основные игровые механики.",
+      "ge": "ფუნქციური 3D გარემოს შექმნისა და ძირითადი გეიმპლეი მექანიკების იმპლემენტაციის შესაძლებლობა."
+    }
+  },
+  {
+    "id": 3,
+    "skill": "BLENDER",
+    "img": "https://raw.githubusercontent.com/SLIVTIM/test-portfolio_data/refs/heads/main/img/my_other_skills/blender_logo.svg",
+    "reason": {
+      "en": "Skilled in poly-modeling, UV mapping, and preparing assets for game engines.",
+      "ru": "Навыки полигонального моделирования, UV-развертки и подготовки ассетов для игровых движков.",
+      "ge": "პოლიგონალური მოდელირების, UV-გაშლისა და ასეტების სათამაშო ძრავებისთვის მომზადების უნარები."
+    }
+  },
+  {
+    "id": 4,
+    "skill": "INKSCAPE",
+    "img": "https://raw.githubusercontent.com/SLIVTIM/test-portfolio_data/refs/heads/main/img/my_other_skills/inkScape_logo.svg",
+    "reason": {
+      "en": "Basic knowledge of vector design for creating UI icons and simple layouts.",
+      "ru": "Базовые знания векторного дизайна для создания иконок интерфейса и простых макетов.",
+      "ge": "ვექტორული დიზაინის საბაზისო ცოდნა UI ხატულებისა და მარტივი განლაგებების შესაქმნელად."
+    }
+  },
+  {
+    "id": 5,
+    "skill": "GIMP",
+    "img": "https://raw.githubusercontent.com/SLIVTIM/test-portfolio_data/refs/heads/main/img/my_other_skills/gimp_logo.svg",
+    "reason": {
+      "en": "Used for basic image manipulation and texture adjustments.",
+      "ru": "Используется для базовых манипуляций с изображениями и корректировки текстур.",
+      "ge": "გამოიყენება გამოსახულების საბაზისო მანიპულაციებისა და ტექსტურების კორექტირებისთვის."
+    }
+  }
 ]
